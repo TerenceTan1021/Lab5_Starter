@@ -11,6 +11,6 @@ Sarveesh Mann
 
 # link
 
-![expose.html link](https://terencetan1021.github.io/Lab5_Starter/expose.html)
+[expose.html link](https://terencetan1021.github.io/Lab5_Starter/expose.html)
 
-![explore.html link](https://terencetan1021.github.io/Lab5_Starter/explore.html)
+[explore.html link](https://terencetan1021.github.io/Lab5_Starter/explore.html)
