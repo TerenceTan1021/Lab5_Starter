@@ -6,8 +6,8 @@ Terence Tan
 
 Sarveesh Mann
 
-# Unit Testing
+# Unit Testing Question
 
-1. We should be able to use unit testing to, for example if you dont want your messaging app to have profanity words, limit words. You can use unit testing to cover those area
+1. Yes I would. I would use the unit test to test out if the message being sent has an profanity.
 
-2. If it is testing max length. I would use it to test, by having the test pass when sendinng nothing but a black, and up to 80 characters of black spaces
+2. If we need to check the max message length then yes we would need to do the unit testing. To check if the message text length is long, and if it is have it create a error or have it not be able to be sent.
