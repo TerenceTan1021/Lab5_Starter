@@ -50,7 +50,7 @@ test('Password: 8asdfg', () => {
   expect(isStrongPassword('8asdfg')).toBe(false);
 });
 test('Password: A12', () => {
-  expect(isStrongPassword('A12')).toBe(false);
+  expect(isStrongPassword('A12$$$$')).toBe(false);
 });
 
 //Test the date
