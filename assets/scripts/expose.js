@@ -2,6 +2,7 @@
 
 window.addEventListener('DOMContentLoaded', init);
 
+ const jsConfetti = new JSConfetti();
 
 function init() {
   // TODO
@@ -38,7 +39,6 @@ function init() {
   button.addEventListener("click", (event) =>{
     audio_display.play();
     if (partyhorn == "party-horn"){
-      const jsConfetti = new JSConfetti();
       jsConfetti.addConfetti();
 
     }
